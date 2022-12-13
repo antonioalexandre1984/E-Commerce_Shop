@@ -1,0 +1,9 @@
+e-commerce shop
+1 - yarn create vite e-commerce-shop-new --template react
+2 - yarn
+3 - yarn add tailwindcss -D
+4 - yarn add postcss
+5 - yarn add autoprefixer
+6 - yarn tailwind init
+7 - yarn add react-router-dom
+8 - 
